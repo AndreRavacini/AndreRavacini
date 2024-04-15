@@ -40,10 +40,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AndreRavacini/AndreRavacini/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Portifólio</h2>
 
 ###

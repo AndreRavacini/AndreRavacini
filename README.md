@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreRavacini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreRavacini&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AndreRavacini&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreRavacini&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -40,8 +40,24 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/AndreRavacini/AndreRavacini/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left">Portifólio</h2>
+
+###
+
+<p align="left">https://replit.com/@andreravacini/Calculadora-de-IMC</p>
+
+###
+
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AndreRavacini/AndreRavacini/snake.yml" alt="Snake animation" />
+<div align="center">
+  <a href="https://open.spotify.com/user/mfizdw3105u3o8w9kf4sdkcx5">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mfizdw3105u3o8w9kf4sdkcx5&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###

@@ -1,4 +1,4 @@
-<h2 align="center">Olá👋! Eu sou André Ravacini</h2>
+<h2 align="center">Olá👋 Eu sou André Ravacini</h2>
 
 ###
 

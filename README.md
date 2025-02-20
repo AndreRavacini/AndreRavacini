@@ -1,5 +1,9 @@
 <h2 align="center">Olá👋 Eu sou André Ravacini</h2>
 
+<p>Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas e tenho 20 anos. Atualmente, trabalho como Auxiliar de TI, onde adquiri experiência em suporte técnico, manutenção de hardware e software, infraestrutura de redes, gerenciamento de servidores e desenvolvimento de soluções. Minha atuação envolve desde a resolução de chamados e configuração de equipamentos até a implementação e otimização de sistemas.
+
+💡 Sempre em busca de novos desafios, estou aprimorando minhas habilidades em desenvolvimento e infraestrutura para evoluir na área de tecnologia.</p>
+
 ###
 
 <div align="center">

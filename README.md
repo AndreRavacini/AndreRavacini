@@ -1,8 +1,21 @@
 <h2 align="center">Olá👋 Eu sou André Ravacini</h2>
 
-<p>Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas e tenho 20 anos. Atualmente, trabalho como Auxiliar de TI, onde adquiri experiência em suporte técnico, manutenção de hardware e software, infraestrutura de redes, gerenciamento de servidores e desenvolvimento de soluções. Minha atuação envolve desde a resolução de chamados e configuração de equipamentos até a implementação e otimização de sistemas.
+<p>Estudante de ADS – PUC Minas e desenvolvedor em início de carreira, com interesse em backend e frontend.
+Desenvolvo projetos para consolidar minhas habilidades e evoluir como desenvolvedor júnior.
 
-💡 Sempre em busca de novos desafios, estou aprimorando minhas habilidades em desenvolvimento e infraestrutura para evoluir na área de tecnologia.</p>
+🔧 Tecnologias
+
+Backend: C#, .NET, SQL, APIs REST
+Frontend: JavaScript, HTML/CSS
+Ferramentas: Git/GitHub, VS Code, Postman
+
+🎯 Objetivo
+
+Atuar como Desenvolvedor Júnior e continuar expandindo meus conhecimentos em desenvolvimento web.
+
+📌 Estudos atuais
+
+Arquitetura de software, boas práticas de código e desenvolvimento de interfaces.</p>
 
 ###
 
